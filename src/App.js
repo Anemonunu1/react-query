@@ -1,6 +1,6 @@
 import React from "react";
 import { useQuery } from "react-query";
-import "./App.css";
+// import './index.css'
 import axios from "axios";
 
 // const response = await axios("http://swapi.dev/api/planets/");
